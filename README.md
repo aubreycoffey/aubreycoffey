@@ -1,6 +1,5 @@
 # Aubrey Coffey
-### Computational Biologist | MSc Mathematics (TUM) | 
-### ex-NASA | ex-Infineon Quantum Computing
+### Computational Biologist | MSc Mathematics (TUM) 
 
 Mathematician and data scientist transitioning into 
 computational biology. Background in machine learning, 
