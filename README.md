@@ -3,7 +3,7 @@
 
 Mathematician and data scientist transitioning into 
 computational biology. Background in machine learning, 
-optimization, and statistical modeling — currently building 
+optimization, and statistical modeling, currently building 
 expertise in genomics and bioinformatics.
 
 ---
@@ -16,7 +16,7 @@ expertise in genomics and bioinformatics.
 
 ## Background
 - MSc Mathematics, TU Munich 
-  (thesis: quantum algorithms for optimization)
+  (thesis: quantum algorithms for the traveling salesperson problem)
 - BSc Physics + BA Mathematics, Agnes Scott College
 - NASA Armstrong & Langley — flight systems software
 - Infineon — quantum ML for supply chain optimization
@@ -27,8 +27,7 @@ expertise in genomics and bioinformatics.
 - Johns Hopkins Genomic Data Science (Coursera)
 
 ## Skills
-**Bioinformatics:** Scanpy, Scirpy, DESeq2, PLINK, 
-BioPython, Bioconductor, PAGA, GATK
+**Bioinformatics:** Scanpy, Scirpy, 
 **ML/Stats:** PyTorch, scikit-learn, R, mixed models, 
 survival analysis
-**Languages:** Python, R, MATLAB, C, JavaScript, Bash
+**Languages:** Python, R, MATLAB, C, JavaScript, Java
