@@ -1,16 +1,35 @@
-## Hi there 👋
+# Aubrey Coffey
+### Computational Biologist | MSc Mathematics (TUM) | 
+### ex-NASA | ex-Infineon Quantum Computing
 
-<!--
-**aubreycoffey/aubreycoffey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mathematician and data scientist transitioning into 
+computational biology. Background in machine learning, 
+optimization, and statistical modeling — currently building 
+expertise in genomics and bioinformatics.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Bioinformatics Portfolio
+
+| Project | Methods | Data |
+
+---
+
+## Background
+- MSc Mathematics, TU Munich 
+  (thesis: quantum algorithms for optimization)
+- BSc Physics + BA Mathematics, Agnes Scott College
+- NASA Armstrong & Langley — flight systems software
+- Infineon — quantum ML for supply chain optimization
+- TUM — single-cell RNA-seq (scRNA + TCR integration)
+
+## Currently Learning
+- UC San Diego Bioinformatics Specialization (Coursera)
+- Johns Hopkins Genomic Data Science (Coursera)
+
+## Skills
+**Bioinformatics:** Scanpy, Scirpy, DESeq2, PLINK, 
+BioPython, Bioconductor, PAGA, GATK
+**ML/Stats:** PyTorch, scikit-learn, R, mixed models, 
+survival analysis
+**Languages:** Python, R, MATLAB, C, JavaScript, Bash
