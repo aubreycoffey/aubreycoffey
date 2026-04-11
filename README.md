@@ -30,7 +30,7 @@ expertise in genomics and bioinformatics.
 - Johns Hopkins Genomic Data Science (Coursera)
 
 ## Skills
-**Bioinformatics:** Scanpy, Scirpy, mvTCR, multimodal integration, trajectory inference, clustering (Leiden), pseudotime (PAGA)
-**ML/Stats:** PyTorch, scikit-learn, R, mixed models, 
-survival analysis
-**Languages:** Python, R, MATLAB, C, JavaScript, Java
+**Bioinformatics:** Scanpy, Scirpy, scVI, Harmony, LIANA, pySCENIC, scCODA, multimodal omics integration, trajectory inference (PAGA, diffusion pseudotime), Leiden clustering, cell-cell communication analysis, transcription factor regulon analysis
+**ML/Stats:** PyTorch, TensorFlow, scikit-learn, mixed models, survival analysis, dimensionality reduction
+**Languages:** Python, R, MATLAB, C, JavaScript, Java, SQL, Bash
+**Infrastructure:** Docker, GitHub Actions, CI/CD, Git, Linux, MPI, Spark, Qiskit, PennyLane
