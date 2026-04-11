@@ -11,6 +11,7 @@ expertise in genomics and bioinformatics.
 ## Bioinformatics Portfolio
 
 | Project | Methods | Data |
+|Re-Investigation of Thymic T Cell Development | scRNA-seq, TCR analysis, multimodal VAE (mvTCR), Scanpy, Scirpy, Leiden clustering, PAGA, diffusion pseudotime | ~10,000 human thymic T cells (scRNA + TCR, multi-donor, age-annotated) |
 
 ---
 
