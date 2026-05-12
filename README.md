@@ -5,7 +5,7 @@
 Mathematician and data scientist. Background in machine learning, optimization, and statistical modeling, recent interests include bioinformatics and causal inference.
 
 ---
-## Bioinformatics Portfolio
+## Portfolio
 | Project | Methods | Data |
 |---------|---------|------|
 | [Re-Investigation of Thymic T Cell Development](https://github.com/SchubertLab/thymusTCRs) | scRNA-seq, TCR analysis, multimodal VAE (mvTCR), Scanpy, Scirpy, Leiden clustering, PAGA, diffusion pseudotime | ~10,000 human thymic T cells (scRNA + TCR, multi-donor, age-annotated) |
