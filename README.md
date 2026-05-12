@@ -2,8 +2,7 @@
 
 ## Computational Biologist | MSc Mathematics (TUM)
 
-Mathematician and data scientist transitioning into computational biology.  
-Background in machine learning, optimization, and statistical modeling, currently building expertise in genomics and bioinformatics.
+Mathematician and data scientist. Background in machine learning, optimization, and statistical modeling, recent interests include bioinformatics and causal inference.
 
 ---
 ## Bioinformatics Portfolio
