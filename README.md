@@ -22,7 +22,6 @@ Mathematician and data scientist. Background in machine learning, optimization, 
 
 ## Currently Learning
 - UC San Diego Bioinformatics Specialization (Coursera)
-- Johns Hopkins Genomic Data Science (Coursera)
 
 ## Skills
 **Bioinformatics:** Scanpy, Scirpy, scVI, Harmony, LIANA, pySCENIC, scCODA, multimodal omics integration, trajectory inference (PAGA, diffusion pseudotime), Leiden clustering, cell-cell communication analysis, transcription factor regulon analysis<br>
