@@ -1,6 +1,6 @@
 # Aubrey Coffey
 
-## Computational Biologist | MSc Mathematics (TUM)
+## Data Scientist | MSc Mathematics (TUM)
 
 Mathematician and data scientist. Background in machine learning, optimization, and statistical modeling, recent interests include bioinformatics and causal inference.
 
